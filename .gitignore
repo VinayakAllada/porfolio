@@ -1,0 +1,24 @@
+# Compiled files
+*.out
+*.o
+*.exe
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# IDE and system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Node modules (if using Node.js)
+node_modules/
+
+# Cache
+.cache/
+
+# Personal settings
+.env
